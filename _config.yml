@@ -69,5 +69,5 @@ theme: alberta-master
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/WeddingMemoryZC/WeddingMemoryZC.github.io.git
+  repo: https://github.com/togetherZC/togetherZC.github.io.git
   brach: master
