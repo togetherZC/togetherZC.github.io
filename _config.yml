@@ -4,8 +4,8 @@
 
 # Site
 title: TOGETHER
-subtitle: where amazing things happen!
-description: 网站描述网站描述网站描述网站描述
+subtitle: 广州一起传媒策划工作室
+description: 网站描述网站描站描述网站描述
 author: James
 language:
 timezone:
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: huno
+theme: alberta-master
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
